@@ -18,9 +18,14 @@
 ```
 # Mʏ Gɪᴛʜᴜʙ Sᴛᴀᴛᴜꜱ
 
-### Mᴇᴛʀɪᴄꜱ
+<details>   
+<summary>Mᴇᴛʀɪᴄꜱ <img src="https://user-images.githubusercontent.com/70282966/131908132-98b1e101-f327-45e6-9fca-30a5c6542b10.png" width="2%"></summary>
+            
+![Metrics](https://metrics.lecoq.io/WKprabashwara?template=classic&isocalendar=1&languages=1&introduction=1&stars=1&people=1&followup=1&lines=1&activity=1&notable=1&repositories=1&code=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&notable.repositories=false&code.lines=12&code.load=100&code.visibility=public&config.timezone=Asia%2FColombo)
+            
+</details>
 
-![Metrics](https://metrics.lecoq.io/WKprabashwara?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&repositories=1&lines=1&followup=1&pagespeed=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FColombo)
+---
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="github" width="30%" align="right">
 
